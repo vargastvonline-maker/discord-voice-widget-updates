@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2",
+  "version": "2.1.1",
+  "publishedAt": "2026-10-13T19:44:32.2969180Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.1.1.zip",
+  "sha256": "264FD8BD9795FD2ED9827AE719670BB11691B0AD7AD2EF7CE2C2A24EC43134F4",
+  "runNpmCi": false,
+  "minVersion": "2.1.1",
+  "notes": "V2.1.1: infraestrutura de atualizacao assinada, backup, rollback e canal pilot2.",
+  "signature": "+X553ANnfuQ58LBwBQqFysZcAiEc9g+lstauPsys6rCLkMDAcpb5zTvWBpHdm4HgvfFt3rvIN4rh0pBdwnisAg=="
+}
