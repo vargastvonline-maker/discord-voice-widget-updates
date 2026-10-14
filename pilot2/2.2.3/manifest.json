@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2",
+  "version": "2.2.3",
+  "publishedAt": "2026-10-14T23:03:07.4609009Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.3.zip",
+  "sha256": "E16A027CF8B609E6425344E1810EFD1817B6CB4EC906208AC19CDB144118FAA9",
+  "runNpmCi": false,
+  "minVersion": "2.2.2",
+  "notes": "2.2.3: refinamento da borda e brilho verde dos avatares; margem de seguranca e espaco automatico entre participantes corrigidos, sem alterar voz ou configuracoes.",
+  "signature": "14ShwoRRPbpSjV9+XUg4pwTi0BQv2fpTC/DX2e33bnQda9DqIm9ZxAuHnm6UotBqmtrRsa75O/D0Cl53AN9UBQ=="
+}
