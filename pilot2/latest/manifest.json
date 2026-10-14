@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "channel": "pilot2",
-  "version": "2.2.1",
-  "publishedAt": "2026-10-14T12:52:23.4485204Z",
-  "packageUrl": "DiscordVoiceWidget_Update_2.2.1.zip",
-  "sha256": "D8A7E0BB1F15C6F1C181E429A3452714266B164DBCE016F51538CF564DE6FF21",
+  "version": "2.2.2",
+  "publishedAt": "2026-10-14T13:30:50.9295896Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.2.zip",
+  "sha256": "D5BBCBFF87025796CE4E87E053A7C0844D5347D569503818EAD019718B6D03BD",
   "runNpmCi": false,
-  "minVersion": "2.2.0",
-  "notes": "V2.2.1: ajuste de visibilidade em barrinha continua de 10 a 100%, salvamento automatico; preservadas instancia unica FIX7 e recuperacao RPC FIX5.",
-  "signature": "lFJmhVSBoQWuZUutL+FYH7/Spv/cLY5bvQFuPMmBJlNRP2HAqdxvV2FoaS4Ey6sHXUbQxrjziaW5/XUGjc10DQ=="
+  "minVersion": "2.2.1",
+  "notes": "2.2.2: tamanho automatico conforme participantes, barrinha de escala 60-180%, sem corte por redimensionamento manual; conexao do atualizador com segunda tentativa em timeout.",
+  "signature": "z6gJJcB4ZpT5rZPaXEaFlCyc0GOyLQN5bEfA8tw+Gm+RwRt+4Jc0Pl5EFVbPdX82Gd1iYugMTp6tGF/OHgPFCw=="
 }
