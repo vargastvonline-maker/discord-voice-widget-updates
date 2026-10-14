@@ -6,7 +6,7 @@
   "packageUrl": "DiscordVoiceWidget_Update_2.2.4.zip",
   "sha256": "7A85FFAC266AFA1A4DD6408ABFF3F22100ECF29703B36521B8047DC8EA0161CB",
   "runNpmCi": false,
-  "minVersion": "2.2.3",
-  "notes": "CensoredFlow 2.0: identidade visual e nome do aplicativo, assistente e mensagens atualizados. Versao tecnica 2.2.4, sem alterar Discord RPC, configuracoes existentes nem atualizador.",
-  "signature": "TZ6H7rP4wYiecwEU48O2nXA4t6PR6J3vTxbFn7Hojp58vOYIc5egRC0NEZsg1ASSs8sVyah0d0YDIWeK6SL3Cw=="
+  "minVersion": "2.2.2",
+  "notes": "CensoredFlow 2.0: identidade do aplicativo, assistente e mensagens. Compatibilidade direta a partir da 2.2.2. Versao tecnica 2.2.4.",
+  "signature": "s/Mkho6CoCwwQCeiz0DBuXMq9nv0OaWIclLjwCjj1cTVH0G726R53E4ePcdCk+TLR93KYF8/mz3MTyjqcu9ADw=="
 }
