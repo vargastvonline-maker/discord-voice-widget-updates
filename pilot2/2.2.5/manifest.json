@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2",
+  "version": "2.2.5",
+  "publishedAt": "2026-10-15T14:27:28.8129859Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.5.zip",
+  "sha256": "47E5C063BEB8D937E7AB254EA93A9B94DFA59DBE1550315AC639C9686A806109",
+  "runNpmCi": false,
+  "minVersion": "2.2.4",
+  "notes": "CensoredFlow 2.0: iniciar o widget somente com Discord aberto; encerrar ao fechar Discord; Guardian de verificacao breve a cada minuto; remover atalho de inicializacao antigo; manter protecao contra duplicidade.",
+  "signature": "b+3baLuS2ShwzjSL5dD3GoDiio8d+FJhos1GjS7VcORK9ihJgnHI6F/jK7PWBZ2HM9vCcazHAy1VbpVEJ+lPDQ=="
+}
