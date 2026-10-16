@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2",
+  "version": "2.2.7",
+  "publishedAt": "2026-10-16T17:35:39.3962963Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.7.zip",
+  "sha256": "24ECB5D44563C88C256609DBF86B20678441DEFB9DBADC11D287E6C147E5AEDB",
+  "runNpmCi": false,
+  "minVersion": "2.2.2",
+  "notes": "CensoredFlow 2.0 2.2.7: widget aparece somente em call e preserva a ultima posicao; estados mute/deaf responsivos com tarja vermelha proporcional e icones compactos; layout vertical mais compacto; indicador de fala configuravel entre barrinhas e bolinha; Central rapida revisada com previews de layout, SVGs e textos UTF-8 corrigidos. Sem novas dependencias.",
+  "signature": "NvyNfs3WNBBljMru9mhRPafbQcmpfDt8Ps1eLrfqvHPW+grNcoFJGorXOiCqmGTfLeh1v9EB3lv/wDYj9DKoBA=="
+}
