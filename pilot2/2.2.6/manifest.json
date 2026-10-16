@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2",
+  "version": "2.2.6",
+  "publishedAt": "2026-10-16T02:08:13.4003581Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.6.zip",
+  "sha256": "4E5E15B28BF2B9B2ABE3493E8E6B7DF62CB30A2628C63FA1CB6D7CFA63D66BEB",
+  "runNpmCi": false,
+  "minVersion": "2.2.2",
+  "notes": "CensoredFlow 2.0 2.2.6: UX visual refinada; destaque hibrido do falante; estados de mic e mic+fone responsivos; Central rapida; resize com snap e memoria de preferencias; menu contextual reorganizado. Sem novas dependencias.",
+  "signature": "RZuhCCC8LKG3SWErxTXPJXeNLYqh7CBtjfgej5B5eXPuTdP9oJRr3wzfPaywwZDuZFx0sPsvdceTMRhlKwEgDw=="
+}

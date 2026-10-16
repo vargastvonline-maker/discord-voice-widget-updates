@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "channel": "pilot2",
-  "version": "2.2.5",
-  "publishedAt": "2026-10-15T14:27:28.8129859Z",
-  "packageUrl": "DiscordVoiceWidget_Update_2.2.5.zip",
-  "sha256": "47E5C063BEB8D937E7AB254EA93A9B94DFA59DBE1550315AC639C9686A806109",
+  "version": "2.2.6",
+  "publishedAt": "2026-10-16T02:08:13.4003581Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.6.zip",
+  "sha256": "4E5E15B28BF2B9B2ABE3493E8E6B7DF62CB30A2628C63FA1CB6D7CFA63D66BEB",
   "runNpmCi": false,
   "minVersion": "2.2.2",
-  "notes": "CensoredFlow 2.0: inicia com Discord aberto, encerra junto com Discord, Guardian checa rapidamente a cada minuto e migra o Startup antigo. Compatível a partir da 2.2.2.",
-  "signature": "k51OE7gAXOYsPLuss8+7c7ZbQK25rPdQ43NaL1xsD/zA2oJHH9oE2U4iKiPMLyDADU+6f3ncIZ42b9GW5mPMDg=="
+  "notes": "CensoredFlow 2.0 2.2.6: UX visual refinada; destaque hibrido do falante; estados de mic e mic+fone responsivos; Central rapida; resize com snap e memoria de preferencias; menu contextual reorganizado. Sem novas dependencias.",
+  "signature": "RZuhCCC8LKG3SWErxTXPJXeNLYqh7CBtjfgej5B5eXPuTdP9oJRr3wzfPaywwZDuZFx0sPsvdceTMRhlKwEgDw=="
 }
