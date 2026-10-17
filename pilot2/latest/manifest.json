@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "channel": "pilot2",
-  "version": "2.2.7",
-  "publishedAt": "2026-10-16T17:35:39.3962963Z",
-  "packageUrl": "DiscordVoiceWidget_Update_2.2.7.zip",
-  "sha256": "24ECB5D44563C88C256609DBF86B20678441DEFB9DBADC11D287E6C147E5AEDB",
+  "version": "2.2.8",
+  "publishedAt": "2026-10-17T18:40:27.3677607Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.8.zip",
+  "sha256": "4E1650C7632FB635EA6162D31F2007B499116818D2FF383B46BC9A1F920A113F",
   "runNpmCi": false,
   "minVersion": "2.2.2",
-  "notes": "CensoredFlow 2.0 2.2.7: widget aparece somente em call e preserva a ultima posicao; estados mute/deaf responsivos com tarja vermelha proporcional e icones compactos; layout vertical mais compacto; indicador de fala configuravel entre barrinhas e bolinha; Central rapida revisada com previews de layout, SVGs e textos UTF-8 corrigidos. Sem novas dependencias.",
-  "signature": "NvyNfs3WNBBljMru9mhRPafbQcmpfDt8Ps1eLrfqvHPW+grNcoFJGorXOiCqmGTfLeh1v9EB3lv/wDYj9DKoBA=="
+  "notes": "CensoredFlow 2.2.8: estabilidade de posicao, entrada em call sem tela intermediaria, recuperacao RPC, primeiro acesso guiado, Modo Jogo PUBG, pausa manual e ajustes visuais.",
+  "signature": "fVvdKqaZTP7W3As7vBaL1Y18wYIZ3ZrVe5XOuBmKghAZ0P2/bG9xfejNKXIMW1bnI+roreNSq6vfMlIZPgpmBA=="
 }

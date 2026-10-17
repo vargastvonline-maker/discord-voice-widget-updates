@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2",
+  "version": "2.2.8",
+  "publishedAt": "2026-10-17T18:40:27.3677607Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.2.8.zip",
+  "sha256": "4E1650C7632FB635EA6162D31F2007B499116818D2FF383B46BC9A1F920A113F",
+  "runNpmCi": false,
+  "minVersion": "2.2.2",
+  "notes": "CensoredFlow 2.2.8: estabilidade de posicao, entrada em call sem tela intermediaria, recuperacao RPC, primeiro acesso guiado, Modo Jogo PUBG, pausa manual e ajustes visuais.",
+  "signature": "fVvdKqaZTP7W3As7vBaL1Y18wYIZ3ZrVe5XOuBmKghAZ0P2/bG9xfejNKXIMW1bnI+roreNSq6vfMlIZPgpmBA=="
+}
