@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "channel": "pilot2",
-  "version": "2.3.0",
-  "publishedAt": "2026-10-18T06:03:17.0614612Z",
-  "packageUrl": "DiscordVoiceWidget_Update_2.3.0.zip",
-  "sha256": "172C5E4E27D3CC91696C25FEE79D3B65A86F3AA089AF495A42A82C8CB06F90F9",
+  "version": "2.3.1",
+  "publishedAt": "2026-10-19T21:44:39.4549792Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.3.1.zip",
+  "sha256": "5A15B4AA8D197FB66A29C15E2DD49940504C4BA6355C5FD5C4BCE9C6C84B3827",
   "runNpmCi": false,
-  "minVersion": "2.2.2",
-  "notes": "CensoredFlow 2.3.0: Modo Jogo Inteligente generico com detector live do Overlay Discord, topmost e foco seguros, Central rapida redesenhada e compacta, Ajustes avancados em modal e identidade visual aprovada.",
-  "signature": "eoApMasESaNcwH95rA38SwM9HV035qmo1H5AplhuoBYXz0zsaPNzAg6ASfPCTKlWty1XQwiH4WWhpIBA30MfAA=="
+  "minVersion": "2.3.0",
+  "notes": "Bootstrap seguro do updater para suporte a modulos Messaging em subpastas.",
+  "signature": "l+LnDAYPELQ8KLv05j4AXdFPa3hqajiL07ITRNkmUhf8s8ifKvZ4k02hhitTEWh32A6BJGnOw8Xl5tfv3UGiDg=="
 }
