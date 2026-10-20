@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "channel": "pilot2-messaging",
+  "version": "2.4.0",
+  "publishedAt": "2026-10-20T01:47:02.9148476Z",
+  "packageUrl": "DiscordVoiceWidget_Update_2.4.0.zip",
+  "sha256": "A5C5CD4F0339EA2A94CEACE6FB387C517604E79FACAD5253F75713368751FB66",
+  "runNpmCi": false,
+  "minVersion": "2.3.1",
+  "notes": "Piloto CensoredFlow Messaging PC-PC: runtime integrado, identidade Discord vinculada, menu Enviar mensagem, badge por participante e transporte WSS.",
+  "signature": "vjEGeTUIoBNWr/1e9N001mtz9LMBmZW1uEk4LErkUIWi5WzMfZ68PYwmSGS/dOTZW/Bo3wdGcaH1M4qzAyJnBg=="
+}
